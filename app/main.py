@@ -1,4 +1,4 @@
-from fastapi import FastAPI, APIRouter
+from fastapi import FastAPI
 from app.core.logger import log
 from app.core.events import event_manager
 
