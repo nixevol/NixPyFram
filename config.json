@@ -1,10 +1,10 @@
 {
     "CONFIG_OVERRIDE": true,
     "app": {
-        "name": "app",
+        "name": "NixPyFram",
         "id": "0015e331c62ae1ea",
         "version": "0.1.0",
-        "description": "app",
+        "description": "NixPyFram App",
         "host": "0.0.0.0",
         "port": 8001,
         "reload": true,

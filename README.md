@@ -1,4 +1,4 @@
-# Gateway 服务
+# NixPyFram
 
 基于FastAPI的后端服务框架，用于快速搭建RESTful API服务。
 
@@ -18,7 +18,7 @@ project/
 │  ├─api                 # API相关
 │  │  ├─deps.py         # 依赖注入
 │  │  ├─logs.py         # 日志接口
-│  │  └─v1             # API版本
+│  │  └─v1             # API版本 V1
 │  ├─core              # 核心功能
 │  │  ├─config.py     # 配置管理
 │  │  ├─logger.py     # 日志管理
