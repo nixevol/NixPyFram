@@ -182,6 +182,6 @@ GET /health
 ## API文档
 
 启动服务后访问：
-- Swagger UI: `http://localhost:8001/docs`
-- ReDoc: `http://localhost:8001/redoc`
-- OpenAPI: `http://localhost:8001/openapi.json`
+- Swagger UI: `http://localhost:8081/docs`
+- ReDoc: `http://localhost:8081/redoc`
+- OpenAPI: `http://localhost:8081/openapi.json`
