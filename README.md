@@ -17,7 +17,8 @@ project/
 ├─app                     # 应用主目录
 │  ├─api                 # API相关
 │  │  ├─deps.py         # 依赖注入
-│  │  └─v1             # API版本2
+│  │  ├─logs.py         # 日志接口
+│  │  └─v1             # API版本
 │  ├─core              # 核心功能
 │  │  ├─config.py     # 配置管理
 │  │  ├─logger.py     # 日志管理
